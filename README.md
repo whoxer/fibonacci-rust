@@ -23,6 +23,3 @@ Ao observar, percebeu que suas áreas retangulares aumentavam de acordo com a se
 ![proporção](./proporcao.jpeg)
 
 A natureza não é fascinante?
-
-
-## Entendendo o código
